@@ -2,13 +2,14 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+We will be making a website on the Charecter Naruto from the show Naruto 
 
 ## Team Members:
 
--   Name 1
--   Name 2
--   Name 3
+-   Adryan MAckenzie-hopke
+-   Ramandeep Kaur
+-   Lovedeep Singh Sidhu
+
 
 ## Member Contributions:
 
