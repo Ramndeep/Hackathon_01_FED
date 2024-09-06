@@ -13,14 +13,14 @@ We will be making a website on the Charecter Naruto from the show Naruto
 
 ## Member Contributions:
 
-### Name 1:
+### Name 1: Ramandeep
 
--   Worked on [specific elements] of the webpage.
+-   Worked on index.html and naruto_characte.html of the page.
 
-### Name 2:
+### Name 2: Adryan
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Worked on Naruto-introduction and finalizing link integration
 
-### Name 3:
+### Name 3: Lovedeep
 
--   Handled [specific sections], covering [specific topics or features].
+-   Handled Creating the naruto_plot file.
